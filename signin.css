@@ -1,0 +1,15 @@
+
+.red-border{
+    border: 0.1rem solid red;
+}
+
+.header{
+    text-align: center;
+    margin: 1rem;
+}
+
+.signin-box{
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
